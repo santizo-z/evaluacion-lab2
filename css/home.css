@@ -12,10 +12,10 @@
     justify-content: right  
 }
 .imagen{
-    width: 200px;
-    height: 200px;
-    text-align: center;
-    
+    background-color: beige;
+    margin: 15%;
+    display: flex;
+    justify-content: center;
 }
 .titulo2{
     display: flex;
@@ -26,4 +26,8 @@
     font-size: medium;
     display: flex;
     justify-content: center;
+}
+.caja1{
+    margin: 3%;
+    border: 1% solid black;
 }
