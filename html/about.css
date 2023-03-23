@@ -1,0 +1,24 @@
+.emoji{
+    margin-top: 1rem;
+    width: 30px;
+    height: 30px;
+}
+.encabezado{
+    border: 1px solid black;
+}
+.titulo{
+    font-family: 'Edu+NSW+ACT+Foundation', cursive;
+    display: flex;
+    justify-content: center;
+}
+.imagen{
+    background-color: beige;
+    margin: 15%;
+    display: flex;
+    justify-content: center;
+}
+.texto {
+    display: flex;
+    justify-content: center;
+    font-family: 'Edu+NSW+ACT+Foundation', cursive;
+}

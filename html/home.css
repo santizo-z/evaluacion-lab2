@@ -27,7 +27,11 @@
     display: flex;
     justify-content: center;
 }
-.caja1{
-    margin: 3%;
+.caja{
+    margin: 1%;
     border: 1% solid black;
 }
+.pie_de_pagina{
+    border: 1px solid black;
+}
+
