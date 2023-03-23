@@ -5,7 +5,7 @@ for (let i=0; i <= 10; i++ ){
         div.innerHTML = `<div class="caja">
         <h1 class="titulo2">Our product</h1>
           <div class="imagen">
-             <h2>imagen</h2>
+           <img class="imagen2" src=https://cdn.shopify.com/s/files/1/0605/2125/1051/products/unisex-fleece-hoodie-black-front-616fac24a0801_1445x.jpg?v=1634708527" alt="">
           </div>
           <p class="texto2">new product</p>
       </div>`;

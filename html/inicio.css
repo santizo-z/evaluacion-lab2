@@ -1,0 +1,28 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    font-family: 'Edu+NSW+ACT+Foundation', cursive;
+    border: 2px solid black;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.btn2{
+    display: flex;
+    justify-content: center;
+}
+.btn3{
+    display: flex;
+    justify-content: center;
+}
+.imagenes{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    border: 1px solid black;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
